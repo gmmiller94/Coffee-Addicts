@@ -1,3 +1,8 @@
+<img src ="C:\Users\georg\Documents\GitHub\Coffee-Addicts\caffeine.jpeg" width="300"/>
+
+
+
+
 # Coffee-Addicts-Unite
 
 # Project Title
