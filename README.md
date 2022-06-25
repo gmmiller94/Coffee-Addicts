@@ -1,4 +1,4 @@
-<img src ="C:\Users\georg\Documents\GitHub\Coffee-Addicts\caffeine.jpeg" width="300"/>
+<img src ="C:\Users\georg\Documents\GitHub\Coffee-Addicts\caffeine.jpeg](https://github.com/gmmiller94/Coffee-Addicts/blob/main/Resources/caffeine.jpeg" width="300"/>
 
 
 
